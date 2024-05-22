@@ -22,28 +22,28 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 1. Clone the repository:
-   \`\`\`sh
+   ```sh
    git clone https://github.com/yourusername/json-formatter.git
    cd json-formatter
-   \`\`\`
+   ```
 
 2. Install dependencies:
-   \`\`\`sh
+   ```sh
    npm install
-   \`\`\`
+   ```
    or
-   \`\`\`sh
+   ```sh
    yarn install
-   \`\`\`
+   ```
 
 3. Run the development server:
-   \`\`\`sh
+   ```sh
    npm run dev
-   \`\`\`
+   ```
    or
-   \`\`\`sh
+   ```sh
    yarn dev
-   \`\`\`
+   ```
 
 4. Open your browser and navigate to \`http://localhost:3000\`.
 
