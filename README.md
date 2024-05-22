@@ -45,7 +45,7 @@ These instructions will get you a copy of the project up and running on your loc
    yarn dev
    ```
 
-4. Open your browser and navigate to \`http://localhost:3000\`.
+4. Open your browser and navigate to http://localhost:3000.
 
 ## Usage
 
